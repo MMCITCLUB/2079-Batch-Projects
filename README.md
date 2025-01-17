@@ -14,3 +14,7 @@ List of college projects by undergraduates from 2079 Batch, Makawanpur Multiple 
 |[Shirtify](https://github.com/ashishshres/Shirtify)|Shirtify E-Commerce Project using PHP and MySQL.|[@ashishshres](https://github.com/ashishshres)|
 | [Trip Planner App](https://github.com/ashishshres/Redux-Trip-Planner) |An app helping users to organize and plan trips effectively using redux. |[@ashishshres](https://github.com/ashishshres)|
 | [Fusion](https://github.com/ashishshres/Fusion-Movie-App-React) |A movie info site using the TMDB API.|[@ashishshres](https://github.com/ashishshres)|
+
+### How to Contribute
+
+Refer to [Contribute.md](./Contribute.md)
